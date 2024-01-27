@@ -1,0 +1,20 @@
+/home/john/documents/raven/build/lib/utils/fdt/fdt_fixup.o: /home/john/documents/raven/lib/utils/fdt/fdt_fixup.c \
+ /home/john/documents/raven/lib/utils/libfdt/libfdt.h \
+ /home/john/documents/raven/lib/utils/libfdt/libfdt_env.h \
+ /home/john/documents/raven/include/sbi/sbi_string.h \
+ /home/john/documents/raven/include/sbi/sbi_types.h \
+ /home/john/documents/raven/lib/utils/libfdt/fdt.h \
+ /home/john/documents/raven/include/sbi/sbi_console.h \
+ /home/john/documents/raven/include/sbi/sbi_hart.h \
+ /home/john/documents/raven/include/sbi/sbi_domain.h \
+ /home/john/documents/raven/include/sbi/sbi_hartmask.h \
+ /home/john/documents/raven/include/sbi/sbi_bitmap.h \
+ /home/john/documents/raven/include/sbi/sbi_bitops.h \
+ /home/john/documents/raven/include/sbi/sbi_math.h \
+ /home/john/documents/raven/include/sbi/sbi_scratch.h \
+ /home/john/documents/raven/include/sbi/riscv_asm.h \
+ /home/john/documents/raven/include/sbi/riscv_encoding.h \
+ /home/john/documents/raven/include/sbi/sbi_const.h \
+ /home/john/documents/raven/include/sbi_utils/fdt/fdt_fixup.h \
+ /home/john/documents/raven/include/sbi_utils/fdt/fdt_pmu.h \
+ /home/john/documents/raven/include/sbi_utils/fdt/fdt_helper.h

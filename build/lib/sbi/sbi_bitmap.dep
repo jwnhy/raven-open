@@ -1,0 +1,4 @@
+/home/john/documents/raven/build/lib/sbi/sbi_bitmap.o: /home/john/documents/raven/lib/sbi/sbi_bitmap.c \
+ /home/john/documents/raven/include/sbi/sbi_bitmap.h \
+ /home/john/documents/raven/include/sbi/sbi_bitops.h \
+ /home/john/documents/raven/include/sbi/sbi_types.h

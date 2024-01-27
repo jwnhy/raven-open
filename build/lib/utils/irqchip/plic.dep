@@ -1,0 +1,12 @@
+/home/john/documents/raven/build/lib/utils/irqchip/plic.o: /home/john/documents/raven/lib/utils/irqchip/plic.c \
+ /home/john/documents/raven/include/sbi/riscv_io.h \
+ /home/john/documents/raven/include/sbi/riscv_barrier.h \
+ /home/john/documents/raven/include/sbi/sbi_types.h \
+ /home/john/documents/raven/include/sbi/riscv_encoding.h \
+ /home/john/documents/raven/include/sbi/sbi_const.h \
+ /home/john/documents/raven/include/sbi/sbi_console.h \
+ /home/john/documents/raven/include/sbi/sbi_hart.h \
+ /home/john/documents/raven/include/sbi/sbi_error.h \
+ /home/john/documents/raven/include/sbi/sbi_ecall_interface.h \
+ /home/john/documents/raven/include/sbi/sbi_string.h \
+ /home/john/documents/raven/include/sbi_utils/irqchip/plic.h

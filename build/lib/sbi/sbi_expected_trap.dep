@@ -1,0 +1,6 @@
+/home/john/documents/raven/build/lib/sbi/sbi_expected_trap.o: \
+ /home/john/documents/raven/lib/sbi/sbi_expected_trap.S \
+ /home/john/documents/raven/include/sbi/riscv_asm.h \
+ /home/john/documents/raven/include/sbi/riscv_encoding.h \
+ /home/john/documents/raven/include/sbi/sbi_const.h \
+ /home/john/documents/raven/include/sbi/sbi_trap.h

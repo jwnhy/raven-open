@@ -1,0 +1,20 @@
+/home/john/documents/raven/build/lib/utils/reset/fdt_reset_thead.o: \
+ /home/john/documents/raven/lib/utils/reset/fdt_reset_thead.c \
+ /home/john/documents/raven/lib/utils/libfdt/libfdt.h \
+ /home/john/documents/raven/lib/utils/libfdt/libfdt_env.h \
+ /home/john/documents/raven/include/sbi/sbi_string.h \
+ /home/john/documents/raven/include/sbi/sbi_types.h \
+ /home/john/documents/raven/lib/utils/libfdt/fdt.h \
+ /home/john/documents/raven/include/sbi/riscv_io.h \
+ /home/john/documents/raven/include/sbi/riscv_barrier.h \
+ /home/john/documents/raven/include/sbi/sbi_bitops.h \
+ /home/john/documents/raven/include/sbi/sbi_hart.h \
+ /home/john/documents/raven/include/sbi/sbi_scratch.h \
+ /home/john/documents/raven/include/sbi/riscv_asm.h \
+ /home/john/documents/raven/include/sbi/riscv_encoding.h \
+ /home/john/documents/raven/include/sbi/sbi_const.h \
+ /home/john/documents/raven/include/sbi/sbi_system.h \
+ /home/john/documents/raven/include/sbi/sbi_list.h \
+ /home/john/documents/raven/include/sbi_utils/fdt/fdt_helper.h \
+ /home/john/documents/raven/include/sbi_utils/reset/fdt_reset.h \
+ /home/john/documents/raven/lib/utils/reset/fdt_reset_thead.h

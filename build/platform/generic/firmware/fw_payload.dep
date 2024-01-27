@@ -1,0 +1,9 @@
+/home/john/documents/raven/build/platform/generic/firmware/fw_payload.o: /home/john/documents/raven/firmware/fw_payload.S \
+ /home/john/documents/raven/firmware/fw_base.S \
+ /home/john/documents/raven/include/sbi/riscv_asm.h \
+ /home/john/documents/raven/include/sbi/riscv_encoding.h \
+ /home/john/documents/raven/include/sbi/sbi_const.h \
+ /home/john/documents/raven/include/sbi/riscv_elf.h \
+ /home/john/documents/raven/include/sbi/sbi_platform.h \
+ /home/john/documents/raven/include/sbi/sbi_scratch.h \
+ /home/john/documents/raven/include/sbi/sbi_trap.h

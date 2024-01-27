@@ -1,0 +1,21 @@
+/home/john/documents/raven/build/lib/utils/rvbt/rvbt_stepping.o: \
+ /home/john/documents/raven/lib/utils/rvbt/rvbt_stepping.c \
+ /home/john/documents/raven/include/sbi_utils/rvbt/rvbt_stepping.h \
+ /home/john/documents/raven/include/sbi/sbi_types.h \
+ /home/john/documents/raven/include/sbi/riscv_asm.h \
+ /home/john/documents/raven/include/sbi/riscv_encoding.h \
+ /home/john/documents/raven/include/sbi/sbi_const.h \
+ /home/john/documents/raven/include/sbi_utils/rvbt/rvbt_memory.h \
+ /home/john/documents/raven/include/sbi/riscv_atomic.h \
+ /home/john/documents/raven/include/sbi/sbi_console.h \
+ /home/john/documents/raven/include/sbi/sbi_hart.h \
+ /home/john/documents/raven/include/sbi_utils/fdt/fdt_helper.h \
+ /home/john/documents/raven/lib/utils/libfdt/libfdt.h \
+ /home/john/documents/raven/lib/utils/libfdt/libfdt_env.h \
+ /home/john/documents/raven/include/sbi/sbi_string.h \
+ /home/john/documents/raven/lib/utils/libfdt/fdt.h \
+ /home/john/documents/raven/include/sbi/sbi_math.h \
+ /home/john/documents/raven/include/sbi/sbi_trap.h \
+ /home/john/documents/raven/include/sbi/sbi_unpriv.h \
+ /home/john/documents/raven/include/sbi_utils/rvbt/rvbt_serial.h \
+ /home/john/documents/raven/include/sbi_utils/serial/sifive-uart.h

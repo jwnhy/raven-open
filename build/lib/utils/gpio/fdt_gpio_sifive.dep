@@ -1,0 +1,10 @@
+/home/john/documents/raven/build/lib/utils/gpio/fdt_gpio_sifive.o: \
+ /home/john/documents/raven/lib/utils/gpio/fdt_gpio_sifive.c \
+ /home/john/documents/raven/include/sbi/riscv_io.h \
+ /home/john/documents/raven/include/sbi/riscv_barrier.h \
+ /home/john/documents/raven/include/sbi/sbi_types.h \
+ /home/john/documents/raven/include/sbi/sbi_error.h \
+ /home/john/documents/raven/include/sbi/sbi_ecall_interface.h \
+ /home/john/documents/raven/include/sbi_utils/fdt/fdt_helper.h \
+ /home/john/documents/raven/include/sbi_utils/gpio/fdt_gpio.h \
+ /home/john/documents/raven/include/sbi_utils/gpio/gpio.h

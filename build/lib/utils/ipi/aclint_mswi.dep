@@ -1,0 +1,17 @@
+/home/john/documents/raven/build/lib/utils/ipi/aclint_mswi.o: /home/john/documents/raven/lib/utils/ipi/aclint_mswi.c \
+ /home/john/documents/raven/include/sbi/riscv_asm.h \
+ /home/john/documents/raven/include/sbi/riscv_encoding.h \
+ /home/john/documents/raven/include/sbi/sbi_const.h \
+ /home/john/documents/raven/include/sbi/riscv_atomic.h \
+ /home/john/documents/raven/include/sbi/riscv_io.h \
+ /home/john/documents/raven/include/sbi/riscv_barrier.h \
+ /home/john/documents/raven/include/sbi/sbi_types.h \
+ /home/john/documents/raven/include/sbi/sbi_domain.h \
+ /home/john/documents/raven/include/sbi/sbi_hartmask.h \
+ /home/john/documents/raven/include/sbi/sbi_bitmap.h \
+ /home/john/documents/raven/include/sbi/sbi_bitops.h \
+ /home/john/documents/raven/include/sbi/sbi_error.h \
+ /home/john/documents/raven/include/sbi/sbi_ecall_interface.h \
+ /home/john/documents/raven/include/sbi/sbi_ipi.h \
+ /home/john/documents/raven/include/sbi/sbi_timer.h \
+ /home/john/documents/raven/include/sbi_utils/ipi/aclint_mswi.h

@@ -1,0 +1,3 @@
+/home/john/documents/raven/build/lib/sbi/sbi_bitops.o: /home/john/documents/raven/lib/sbi/sbi_bitops.c \
+ /home/john/documents/raven/include/sbi/sbi_bitops.h \
+ /home/john/documents/raven/include/sbi/sbi_types.h

@@ -1,0 +1,12 @@
+/home/john/documents/raven/build/lib/utils/timer/fdt_timer_mtimer.o: \
+ /home/john/documents/raven/lib/utils/timer/fdt_timer_mtimer.c \
+ /home/john/documents/raven/lib/utils/libfdt/libfdt.h \
+ /home/john/documents/raven/lib/utils/libfdt/libfdt_env.h \
+ /home/john/documents/raven/include/sbi/sbi_string.h \
+ /home/john/documents/raven/include/sbi/sbi_types.h \
+ /home/john/documents/raven/lib/utils/libfdt/fdt.h \
+ /home/john/documents/raven/include/sbi/sbi_error.h \
+ /home/john/documents/raven/include/sbi/sbi_ecall_interface.h \
+ /home/john/documents/raven/include/sbi_utils/fdt/fdt_helper.h \
+ /home/john/documents/raven/include/sbi_utils/timer/fdt_timer.h \
+ /home/john/documents/raven/include/sbi_utils/timer/aclint_mtimer.h

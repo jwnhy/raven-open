@@ -1,0 +1,7 @@
+/home/john/documents/raven/build/lib/utils/serial/uart8250.o: /home/john/documents/raven/lib/utils/serial/uart8250.c \
+ /home/john/documents/raven/include/sbi/riscv_io.h \
+ /home/john/documents/raven/include/sbi/riscv_barrier.h \
+ /home/john/documents/raven/include/sbi/sbi_types.h \
+ /home/john/documents/raven/include/sbi/sbi_console.h \
+ /home/john/documents/raven/include/sbi/sbi_hart.h \
+ /home/john/documents/raven/include/sbi_utils/serial/uart8250.h

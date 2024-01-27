@@ -1,0 +1,5 @@
+/home/john/documents/raven/build/lib/utils/gpio/gpio.o: /home/john/documents/raven/lib/utils/gpio/gpio.c \
+ /home/john/documents/raven/include/sbi/sbi_error.h \
+ /home/john/documents/raven/include/sbi/sbi_ecall_interface.h \
+ /home/john/documents/raven/include/sbi_utils/gpio/gpio.h \
+ /home/john/documents/raven/include/sbi/sbi_types.h

@@ -1,0 +1,12 @@
+/home/john/documents/raven/build/lib/sbi/riscv_asm.o: /home/john/documents/raven/lib/sbi/riscv_asm.c \
+ /home/john/documents/raven/include/sbi/riscv_asm.h \
+ /home/john/documents/raven/include/sbi/riscv_encoding.h \
+ /home/john/documents/raven/include/sbi/sbi_const.h \
+ /home/john/documents/raven/include/sbi/sbi_error.h \
+ /home/john/documents/raven/include/sbi/sbi_ecall_interface.h \
+ /home/john/documents/raven/include/sbi/sbi_platform.h \
+ /home/john/documents/raven/include/sbi/sbi_scratch.h \
+ /home/john/documents/raven/include/sbi/sbi_types.h \
+ /home/john/documents/raven/include/sbi/sbi_version.h \
+ /home/john/documents/raven/include/sbi/sbi_console.h \
+ /home/john/documents/raven/include/sbi/sbi_hart.h

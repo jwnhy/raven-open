@@ -1,0 +1,6 @@
+/home/john/documents/raven/build/lib/utils/serial/fdt_serial_gaisler.o: \
+ /home/john/documents/raven/lib/utils/serial/fdt_serial_gaisler.c \
+ /home/john/documents/raven/include/sbi_utils/fdt/fdt_helper.h \
+ /home/john/documents/raven/include/sbi/sbi_types.h \
+ /home/john/documents/raven/include/sbi_utils/serial/fdt_serial.h \
+ /home/john/documents/raven/include/sbi_utils/serial/gaisler-uart.h

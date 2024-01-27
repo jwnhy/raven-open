@@ -1,0 +1,8 @@
+/home/john/documents/raven/build/lib/utils/serial/gaisler-uart.o: \
+ /home/john/documents/raven/lib/utils/serial/gaisler-uart.c \
+ /home/john/documents/raven/include/sbi/riscv_io.h \
+ /home/john/documents/raven/include/sbi/riscv_barrier.h \
+ /home/john/documents/raven/include/sbi/sbi_types.h \
+ /home/john/documents/raven/include/sbi/sbi_console.h \
+ /home/john/documents/raven/include/sbi/sbi_hart.h \
+ /home/john/documents/raven/include/sbi_utils/serial/gaisler-uart.h

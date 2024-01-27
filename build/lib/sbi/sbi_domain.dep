@@ -1,0 +1,19 @@
+/home/john/documents/raven/build/lib/sbi/sbi_domain.o: /home/john/documents/raven/lib/sbi/sbi_domain.c \
+ /home/john/documents/raven/include/sbi/riscv_asm.h \
+ /home/john/documents/raven/include/sbi/riscv_encoding.h \
+ /home/john/documents/raven/include/sbi/sbi_const.h \
+ /home/john/documents/raven/include/sbi/sbi_console.h \
+ /home/john/documents/raven/include/sbi/sbi_types.h \
+ /home/john/documents/raven/include/sbi/sbi_hart.h \
+ /home/john/documents/raven/include/sbi/sbi_domain.h \
+ /home/john/documents/raven/include/sbi/sbi_hartmask.h \
+ /home/john/documents/raven/include/sbi/sbi_bitmap.h \
+ /home/john/documents/raven/include/sbi/sbi_bitops.h \
+ /home/john/documents/raven/include/sbi/sbi_hsm.h \
+ /home/john/documents/raven/include/sbi/sbi_math.h \
+ /home/john/documents/raven/include/sbi/sbi_platform.h \
+ /home/john/documents/raven/include/sbi/sbi_ecall_interface.h \
+ /home/john/documents/raven/include/sbi/sbi_error.h \
+ /home/john/documents/raven/include/sbi/sbi_scratch.h \
+ /home/john/documents/raven/include/sbi/sbi_version.h \
+ /home/john/documents/raven/include/sbi/sbi_string.h

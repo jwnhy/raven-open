@@ -1,0 +1,9 @@
+/home/john/documents/raven/build/lib/sbi/sbi_ecall.o: /home/john/documents/raven/lib/sbi/sbi_ecall.c \
+ /home/john/documents/raven/include/sbi/sbi_console.h \
+ /home/john/documents/raven/include/sbi/sbi_types.h \
+ /home/john/documents/raven/include/sbi/sbi_hart.h \
+ /home/john/documents/raven/include/sbi/sbi_ecall.h \
+ /home/john/documents/raven/include/sbi/sbi_list.h \
+ /home/john/documents/raven/include/sbi/sbi_ecall_interface.h \
+ /home/john/documents/raven/include/sbi/sbi_error.h \
+ /home/john/documents/raven/include/sbi/sbi_trap.h

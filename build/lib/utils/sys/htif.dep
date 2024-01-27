@@ -1,0 +1,8 @@
+/home/john/documents/raven/build/lib/utils/sys/htif.o: /home/john/documents/raven/lib/utils/sys/htif.c \
+ /home/john/documents/raven/include/sbi/riscv_locks.h \
+ /home/john/documents/raven/include/sbi/sbi_types.h \
+ /home/john/documents/raven/include/sbi/sbi_console.h \
+ /home/john/documents/raven/include/sbi/sbi_hart.h \
+ /home/john/documents/raven/include/sbi/sbi_system.h \
+ /home/john/documents/raven/include/sbi/sbi_list.h \
+ /home/john/documents/raven/include/sbi_utils/sys/htif.h

@@ -1,0 +1,8 @@
+/home/john/documents/raven/build/lib/utils/libfdt/fdt_rw.o: /home/john/documents/raven/lib/utils/libfdt/fdt_rw.c \
+ /home/john/documents/raven/lib/utils/libfdt/libfdt_env.h \
+ /home/john/documents/raven/include/sbi/sbi_string.h \
+ /home/john/documents/raven/include/sbi/sbi_types.h \
+ /home/john/documents/raven/lib/utils/libfdt/fdt.h \
+ /home/john/documents/raven/lib/utils/libfdt/libfdt.h \
+ /home/john/documents/raven/lib/utils/libfdt/libfdt_env.h \
+ /home/john/documents/raven/lib/utils/libfdt/libfdt_internal.h

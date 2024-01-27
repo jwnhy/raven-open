@@ -1,0 +1,7 @@
+/home/john/documents/raven/build/lib/utils/ipi/fdt_ipi_mswi.o: /home/john/documents/raven/lib/utils/ipi/fdt_ipi_mswi.c \
+ /home/john/documents/raven/include/sbi/sbi_error.h \
+ /home/john/documents/raven/include/sbi/sbi_ecall_interface.h \
+ /home/john/documents/raven/include/sbi_utils/fdt/fdt_helper.h \
+ /home/john/documents/raven/include/sbi/sbi_types.h \
+ /home/john/documents/raven/include/sbi_utils/ipi/fdt_ipi.h \
+ /home/john/documents/raven/include/sbi_utils/ipi/aclint_mswi.h

@@ -1,0 +1,8 @@
+/home/john/documents/raven/build/lib/sbi/riscv_atomic.o: /home/john/documents/raven/lib/sbi/riscv_atomic.c \
+ /home/john/documents/raven/include/sbi/sbi_bitops.h \
+ /home/john/documents/raven/include/sbi/sbi_types.h \
+ /home/john/documents/raven/include/sbi/riscv_asm.h \
+ /home/john/documents/raven/include/sbi/riscv_encoding.h \
+ /home/john/documents/raven/include/sbi/sbi_const.h \
+ /home/john/documents/raven/include/sbi/riscv_atomic.h \
+ /home/john/documents/raven/include/sbi/riscv_barrier.h

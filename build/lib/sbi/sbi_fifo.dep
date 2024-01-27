@@ -1,0 +1,7 @@
+/home/john/documents/raven/build/lib/sbi/sbi_fifo.o: /home/john/documents/raven/lib/sbi/sbi_fifo.c \
+ /home/john/documents/raven/include/sbi/riscv_locks.h \
+ /home/john/documents/raven/include/sbi/sbi_types.h \
+ /home/john/documents/raven/include/sbi/sbi_error.h \
+ /home/john/documents/raven/include/sbi/sbi_ecall_interface.h \
+ /home/john/documents/raven/include/sbi/sbi_fifo.h \
+ /home/john/documents/raven/include/sbi/sbi_string.h

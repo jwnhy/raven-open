@@ -1,0 +1,13 @@
+/home/john/documents/raven/build/lib/sbi/sbi_ecall_vendor.o: /home/john/documents/raven/lib/sbi/sbi_ecall_vendor.c \
+ /home/john/documents/raven/include/sbi/sbi_ecall.h \
+ /home/john/documents/raven/include/sbi/sbi_types.h \
+ /home/john/documents/raven/include/sbi/sbi_list.h \
+ /home/john/documents/raven/include/sbi/sbi_ecall_interface.h \
+ /home/john/documents/raven/include/sbi/sbi_error.h \
+ /home/john/documents/raven/include/sbi/sbi_platform.h \
+ /home/john/documents/raven/include/sbi/sbi_scratch.h \
+ /home/john/documents/raven/include/sbi/riscv_asm.h \
+ /home/john/documents/raven/include/sbi/riscv_encoding.h \
+ /home/john/documents/raven/include/sbi/sbi_const.h \
+ /home/john/documents/raven/include/sbi/sbi_version.h \
+ /home/john/documents/raven/include/sbi/sbi_trap.h

@@ -1,0 +1,4 @@
+/home/john/documents/raven/build/lib/sbi/riscv_locks.o: /home/john/documents/raven/lib/sbi/riscv_locks.c \
+ /home/john/documents/raven/include/sbi/riscv_barrier.h \
+ /home/john/documents/raven/include/sbi/riscv_locks.h \
+ /home/john/documents/raven/include/sbi/sbi_types.h
