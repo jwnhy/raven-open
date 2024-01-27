@@ -7,6 +7,10 @@ Raven is based on OpenSBI, therefore it can be built with OpenSBI's instruction,
 
 The main source code is inside `./lib/utils/rvbt`, most changes from Raven is in this folder.
 
+> Note that we only tested Raven on SiFive Unleash and QEMU with hard-coded configuration, you might need to change certain configuration to run on other platform or adopt to a new version of OpenSBI.
+>
+> We are also working with [RustSBI](https://github.com/rustsbi/rustsbi) to port Raven there.
+
 ## Citation
 ```
 @inproceedings{10.1145/3489517.3530583,
