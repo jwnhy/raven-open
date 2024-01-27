@@ -9,17 +9,17 @@ The main source code is inside `./lib/utils/rvbt`, most changes from Raven is in
 
 ## Citation
 > @inproceedings{10.1145/3489517.3530583,
-
+>
 > author = {Lu, Hongyi and Zhang, Fengwei},
-
+>
 > title = {Raven: a novel kernel debugging tool on RISC-V},
-
+>
 > year = {2022},
-
+>
 > url = {https://doi.org/10.1145/3489517.3530583},
-
+>
 > doi = {10.1145/3489517.3530583},
-
+>
 > series = {DAC '22}
-
+>
 > }
